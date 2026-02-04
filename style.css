@@ -6,3 +6,19 @@ td {
     border: 2px solid rgb(177, 147, 125);
 }
 
+.inline{
+    color: brown;
+
+}
+    #one{
+         background-color: antiquewhite;
+    }
+    #two{
+    background-color: aqua;
+}
+#three{
+     background-color: rgb(39, 167, 167);
+}
+#four{
+    background-color: blue;
+}
